@@ -1,12 +1,12 @@
 class Swaper
 {
-    private $main_ip      = '188.225.17.106';
+    private $main_ip      = '192.168.1.1';
 
-    private $emergency_ip = '127.0.0.1';
+    private $emergency_ip = '192.168.1.2';
 
-    private $token        = 'NR2U6Z4KBXWXWUG5353UWUTH2AML43HQGKFE2LZYGT7F3HPV7C3A';
+    private $token        = 'MYTOKEN------!@#$%^&*';
 
-    private $domain       = 'optic-city.ru';
+    private $domain       = 'my-domain.ru';
 
     public  $current_ip   = false;
 
