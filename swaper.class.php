@@ -1,3 +1,4 @@
+<?php
 class Swaper
 {
     private $main_ip      = '192.168.1.1';
@@ -80,3 +81,4 @@ class Swaper
         return $result;
     }
 }
+?>
